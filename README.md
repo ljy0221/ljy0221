@@ -44,6 +44,7 @@
 우울증 환자들의 감정 관리를 위한 상담형 챗봇 및 일상 관리 프로그램
 - **기술스택**: Flutter, Spring, Python
 - **주요기능**: 실시간 챗봇, RESTful API 연동, 반응형 디자인, 로컬 데이터 저장소 구현
+- **관련기사**: [기호일보](https://www.kihoilbo.co.kr/news/articleView.html?idxno=1092649)
 
 ## 📈 활동 현황
 
