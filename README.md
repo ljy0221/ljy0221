@@ -4,10 +4,8 @@
 개발자로서 **사용자 경험**과 **깔끔한 코드**에 집중하고 있습니다.  
 새로운 기술을 배우는 것을 좋아하며, 책처럼 읽히는 코드 작성을 중요시합니다.
 
-- 🌱 **TypeScript**와 **Next.js** 학습 중
-- 🔭 현재 **React**와 **Node.js**를 활용한 웹 애플리케이션 개발 중
-- 👯 오픈소스 프로젝트 협업에 관심이 많습니다
-- 💬 **JavaScript, React**에 대해 언제든 물어보세요
+- 🌱 **Spring WebFlux**와 **webRTC** 학습 중
+- 🔭 현재 **Spring Framework**와 **Electron**, **MediaPipe**를 활용한 웹 애플리케이션 개발 중
 - 📫 연락처: **woduddl1000@gmail.com**
 
 ## 🛠️ Tech Stack
@@ -23,6 +21,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![VUE3](https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ### Backend
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -43,11 +42,31 @@
 
 ## 🔥 주요 프로젝트
 
-### 📱 [마음씨 (마음°C)](https://github.com/ljy0221/RestProject-Heart)
+### [프로젝트명] 갈래?말래? - AI 기반 즉흥 여행 추천 플랫폼
+#### [기간] 2024.11 ~ 2024.12 (5-6주)
+#### [역할] AI/Backend 개발 (2인 팀)
+#### [기술스택] Vue.js, Spring Boot, FastAPI, ChromaDB, MySQL, AWS EC2
+#### [주요성과]
+- AI RAG 챗봇 구현 (ChromaDB + sentence-transformers 활용)
+- 15,000개 관광지 데이터 임베딩 및 벡터 검색 최적화
+-	위치 기반 실시간 AI 추천 시스템 개발 (Geolocation + 날씨 API 연동)
+-	GIS 공간 인덱스 + MBR 활용 위치 검색 성능 최적화
+-	AI 스트리밍 응답 구현으로 UX 개선
+-	게시판 및 마이페이지 풀스택 개발
+-	MVP 100% 달성 후 추가 기능 개발
+#### [핵심 기술]
+-	AI/ML: RAG, Vector DB, Embedding, Streaming Response
+-	Backend: Spring Boot, JPA, JWT, RESTful API
+-	Database: MySQL GIS, 공간 인덱스, 쿼리 최적화
+-	Frontend: Vue.js, Vuex, SCSS, 반응형 디자인
+-	DevOps: AWS EC2, Docker, GitLab
+
+
+### [마음씨 (마음°C)](https://github.com/ljy0221/RestProject-Heart)
 우울증 환자들의 감정 관리를 위한 상담형 챗봇 및 일상 관리 프로그램
-- **기술스택**: Flutter, Spring, Python
-- **주요기능**: 실시간 챗봇, RESTful API 연동, 반응형 디자인, 로컬 데이터 저장소 구현
-- **관련기사**: [기호일보](https://www.kihoilbo.co.kr/news/articleView.html?idxno=1092649)
+#### [기술스택] Flutter, Spring, Python
+#### [주요기능] 실시간 챗봇, RESTful API 연동, 반응형 디자인, 로컬 데이터 저장소 구현
+#### [관련기사] [기호일보](https://www.kihoilbo.co.kr/news/articleView.html?idxno=1092649)
 
 ## 📈 활동 현황
 
