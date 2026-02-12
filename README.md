@@ -46,7 +46,7 @@
 ## 🔥 주요 프로젝트
 
 ### [프로젝트명] 갈래?말래? - AI 기반 즉흥 여행 추천 플랫폼
-#### [기간] 2024.11 ~ 2024.12 (5-6주)
+#### [기간] 2025.11 ~ 2025.12 (5-6주)
 #### [역할] AI/Backend 개발 (2인 팀)
 #### [기술스택] Vue.js, Spring Boot, FastAPI, ChromaDB, MySQL, AWS EC2
 #### [주요성과]
@@ -65,10 +65,16 @@
 -	DevOps: AWS EC2, Docker, GitLab
 
 
-### [마음씨 (마음°C)](https://github.com/ljy0221/RestProject-Heart)
+### [프로젝트명] [마음씨 (마음°C)](https://github.com/ljy0221/RestProject-Heart)
 우울증 환자들의 감정 관리를 위한 상담형 챗봇 및 일상 관리 프로그램
 #### [기술스택] Flutter, Spring, Python
-#### [주요기능] 실시간 챗봇, RESTful API 연동, 반응형 디자인, 로컬 데이터 저장소 구현
+#### [주요성과]
+- 하이브리드 플랫폼 활용
+- 
+#### [핵심기술]
+- AI: 실시간 챗봇
+- Frontend: RESTful API 연동, 반응형 디자인
+- Mobile: 로컬 데이터 저장소 구현
 #### [관련기사] [기호일보](https://www.kihoilbo.co.kr/news/articleView.html?idxno=1092649)
 
 ## 📈 활동 현황
