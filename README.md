@@ -1,6 +1,7 @@
 # 이재영 포트폴리오
 
 **Email**: woduddl1000@gmail.com
+<br>
 **GitHub**: [@ljy0221](https://github.com/ljy0221)
 
 ---
@@ -10,7 +11,7 @@
 풀스택 개발자로서 준비하고있습니다.
 성능 개선에 관심이 많습니다.
 
-**현재 학습 중**: Spring WebFlux, kafka, spark, n8n
+**현재 학습 중**: Spring WebFlux, kafka, spark, n8n<br>
 **진행 중인 프로젝트**: 
 
 ---
