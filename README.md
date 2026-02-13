@@ -2,17 +2,16 @@
 
 **Email**: woduddl1000@gmail.com
 **GitHub**: [@ljy0221](https://github.com/ljy0221)
-**Baekjoon**: [dwd0221](https://solved.ac/dwd0221/)
 
 ---
 
 ## 전문 분야
 
-풀스택 개발자로서 AI 기반 웹 애플리케이션 개발에 집중하고 있습니다.
-사용자 경험 최적화와 성능 개선을 중요시하며, 클린 코드 작성을 추구합니다.
+풀스택 개발자로서 준비하고있습니다.
+성능 개선에 관심이 많습니다.
 
-**현재 학습 중**: Spring WebFlux, WebRTC
-**진행 중인 프로젝트**: Spring Framework 및 Electron, MediaPipe 기반 웹 애플리케이션
+**현재 학습 중**: Spring WebFlux, kafka, spark, n8n
+**진행 중인 프로젝트**: 
 
 ---
 
@@ -23,10 +22,8 @@
 | **Frontend** | React, Next.js, TypeScript, JavaScript, Vue.js, Electron, Flutter, HTML5, CSS3 |
 | **Backend** | Spring Boot, Node.js, Express, FastAPI, Flask |
 | **Database** | PostgreSQL, MySQL, MongoDB, Redis, ChromaDB (Vector DB) |
-| **AI/ML** | RAG, HuggingFace, sentence-transformers, Embedding, Claude API, Gemini API, OpenAI API |
-| **Infrastructure** | Docker, Nginx, AWS EC2, GitLab CI/CD, Prometheus, Grafana |
+| **Infrastructure** | Docker, Nginx, AWS EC2, GitLab CI/CD, Prometheus, Grafana, k6 |
 | **Real-time** | WebRTC (Kurento), WebSocket, Yjs CRDT |
-| **Security** | Spring Security, JWT, OAuth 2.0 |
 
 ---
 
@@ -36,11 +33,10 @@
 
 | 항목 | 내용 |
 |------|------|
-| **기간** | 2025 (SSAFY 14기 자율 프로젝트) |
+| **기간** | 2025.12 - 2026-02 (7주) |
 | **역할** | 팀장, 풀스택 개발 (6인 팀) |
 | **기술 스택** | Spring Boot 3.5, React 18, Electron 30, Docker, PostgreSQL, MongoDB, Redis, WebRTC |
 | **저장소** | [SynapseNote](https://github.com/ljy0221/SynapseNote) |
-| **기여도** | 224 커밋 / 983 커밋 (22.8%) |
 
 #### 프로젝트 개요
 개발자들이 학습 노트를 작성하면서 코드를 즉시 실행하고, AI 리뷰를 받으며, 실시간으로 협업할 수 있는 통합 데스크톱 플랫폼. 기존 노트 앱의 코드 실행 부재와 IDE의 학습 노트 작성 한계를 극복한 개발자 특화 학습 환경.
@@ -69,11 +65,7 @@
 - 오프라인 편집 지원 (재접속 시 자동 병합)
 - 사용자 커서 및 상태 실시간 공유
 
-**5. WebRTC 음성 채팅**
-- Kurento 7.1.0 기반 팀 음성 커뮤니케이션
-- 노트 협업 중 실시간 음성 대화 지원
-
-**6. 노트 초대 및 권한 관리**
+**5. 노트 초대 및 권한 관리**
 - OWNER, EDITOR, VIEWER 3단계 권한 시스템
 - JWT 티켓 기반 WebSocket 인증 (TTL 60초)
 - 시간 기반 초대 링크 만료
@@ -87,8 +79,6 @@
 
 **Backend 개발**
 - Spring Boot 기반 RESTful API 설계 및 구현
-- OAuth 2.0 소셜 로그인 (Google, GitHub)
-- JWT 기반 인증 시스템 (Access 1시간, Refresh 14일)
 - Docker 샌드박스 코드 실행 엔진 구현
 - 세션 기반 REPL 시스템 구현
 - AI 프로바이더 통합 (Factory Pattern)
@@ -98,12 +88,9 @@
 - Electron IPC 기반 Main-Renderer 프로세스 분리
 - Zustand 상태 관리
 - Yjs 실시간 협업 통합
-- Recharts 기반 학습 통계 시각화
 
 **Infrastructure**
 - Docker Compose 기반 개발 환경 구축
-- GitLab CI/CD 파이프라인 구성
-- Nginx 리버스 프록시 설정
 
 #### 기술적 구현 상세
 
@@ -117,14 +104,13 @@
 | **WebRTC** | Kurento 7.1.0 |
 | **Containerization** | Docker 27.4, Docker Compose |
 | **Web Server** | Nginx 1.25 |
-| **CI/CD** | GitLab CI/CD |
+| **CI/CD** | jenkins |
 | **Monitoring** | Prometheus, Grafana |
 
 #### 프로젝트 성과
-- 총 커밋 수: 983회
-- 개인 기여: 224회 (woduddl1000 143 + 이재영 81)
+- electron IPC 통신을 이용한 로컬 시스템 활용
 - 세션 코드 실행 속도 20~30배 향상
-- SSAFY 14기 자율 프로젝트 완료
+- 오프라인 지원
 
 ---
 
@@ -133,7 +119,7 @@
 | 항목 | 내용 |
 |------|------|
 | **기간** | 2025.11 ~ 2025.12 (5-6주) |
-| **역할** | AI/Backend 개발 (2인 팀) |
+| **역할** | AI/Backend 개발, 팀장 (2인 팀) |
 | **기술 스택** | Vue.js, Spring Boot, FastAPI, ChromaDB, MySQL, AWS EC2 |
 | **저장소** | [SpontaneousTrip](https://github.com/ljy0221/SpontaneousTrip) |
 
@@ -159,8 +145,7 @@
 
 **Backend 개발**
 - Spring Boot 기반 RESTful API 설계
-- JPA 기반 데이터베이스 모델링
-- JWT 인증 시스템 구현
+- MyBatis 기반 xml 매퍼 구축
 - FastAPI 기반 AI 서버 구축
 
 **Database 최적화**
@@ -170,13 +155,12 @@
 
 **Frontend 개발**
 - Vue.js 3 기반 SPA 구현
-- Vuex 상태 관리
+- Pinia 상태 관리
 - SCSS 기반 반응형 디자인
 - 날씨 API 및 Geolocation API 통합
 
 **DevOps**
 - AWS EC2 배포
-- Docker 컨테이너화
 - GitLab CI/CD 파이프라인 구성
 
 #### 기술 스택 상세
@@ -196,11 +180,10 @@
 
 | 항목 | 내용 |
 |------|------|
-| **기간** | 2024 (4학년 캡스톤 프로젝트) |
-| **역할** | Frontend 개발 (3인 팀) |
+| **기간** | 2024.02~2024.06 (4개월) |
+| **역할** | Frontend 개발 리드 (6인 팀) |
 | **기술 스택** | Flutter, Spring Boot, Flask, Python |
 | **저장소** | [RestProject-Heart](https://github.com/ljy0221/RestProject-Heart) |
-| **기여도** | 5 커밋 / 24 커밋 (20.8%) |
 | **언론 보도** | [기호일보](https://www.kihoilbo.co.kr/news/articleView.html?idxno=1092649) |
 
 #### 프로젝트 개요
@@ -267,10 +250,8 @@
 | **Backend** | Spring Boot (Java), Flask (Python) |
 
 #### 프로젝트 성과
-- 총 커밋 수: 24회
-- 팀 협업: 3인 팀 (Chaeruin, ljy0221, 박달루)
 - 언어 구성: Dart 65.9%, Java 27.0%, Python 6.6%
-- 캡스톤 프로젝트 완료 및 지역 언론 보도
+- 캡스톤 프로젝트 완료 및 수상, 지역 언론 보도
 
 ---
 
@@ -278,7 +259,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **기간** | 2020 |
+| **기간** | 2024 |
 | **역할** | 개인 프로젝트 |
 | **기술 스택** | Java, Android |
 | **저장소** | [mobileProgramming_Nonogram](https://github.com/ljy0221/mobileProgramming_Nonogram) |
@@ -292,7 +273,6 @@
 
 - **Email**: woduddl1000@gmail.com
 - **GitHub**: https://github.com/ljy0221
-- **Baekjoon**: https://solved.ac/dwd0221/
 
 ---
 
