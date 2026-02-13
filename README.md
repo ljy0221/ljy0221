@@ -1,8 +1,6 @@
 # 이재영 포트폴리오
 
-**Email**: woduddl1000@gmail.com
-<br>
-**GitHub**: [@ljy0221](https://github.com/ljy0221)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:woduddl1000@gmail.com)
 
 ---
 
