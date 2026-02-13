@@ -1,89 +1,299 @@
-# 안녕하세요! 👋 이재영입니다
+# 이재영 포트폴리오
 
-## 🚀 About Me
-개발자로서 **사용자 경험**과 **깔끔한 코드**에 집중하고 있습니다.  
-새로운 기술을 배우는 것을 좋아하며, 책처럼 읽히는 코드 작성을 중요시합니다.
-
-- 🌱 **Spring WebFlux**와 **webRTC** 학습 중
-- 🔭 현재 **Spring Framework**와 **Electron**, **MediaPipe**를 활용한 웹 애플리케이션 개발 중
-- 📫 연락처: **woduddl1000@gmail.com**
-
-## 🛠️ Tech Stack
-
-### ProblemSolving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwd0221)](https://solved.ac/dwd0221/)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![VUE3](https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-
-### Backend
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-RAG-green?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljy0221&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljy0221&layout=compact&theme=default&hide_border=true)
-
-## 🔥 주요 프로젝트
-
-### [프로젝트명] 갈래?말래? - AI 기반 즉흥 여행 추천 플랫폼
-#### [기간] 2025.11 ~ 2025.12 (5-6주)
-#### [역할] AI/Backend 개발 (2인 팀)
-#### [기술스택] Vue.js, Spring Boot, FastAPI, ChromaDB, MySQL, AWS EC2
-#### [주요성과]
-- AI RAG 챗봇 구현 (ChromaDB + sentence-transformers 활용)
-- 15,000개 관광지 데이터 임베딩 및 벡터 검색 최적화
--	위치 기반 실시간 AI 추천 시스템 개발 (Geolocation + 날씨 API 연동)
--	GIS 공간 인덱스 + MBR 활용 위치 검색 성능 최적화
--	AI 스트리밍 응답 구현으로 UX 개선
--	게시판 및 마이페이지 풀스택 개발
--	MVP 100% 달성 후 추가 기능 개발
-#### [핵심 기술]
--	AI/ML: RAG, Vector DB, Embedding, Streaming Response
--	Backend: Spring Boot, JPA, JWT, RESTful API
--	Database: MySQL GIS, 공간 인덱스, 쿼리 최적화
--	Frontend: Vue.js, Vuex, SCSS, 반응형 디자인
--	DevOps: AWS EC2, Docker, GitLab
-
-
-### [프로젝트명] [마음씨 (마음°C)](https://github.com/ljy0221/RestProject-Heart)
-우울증 환자들의 감정 관리를 위한 상담형 챗봇 및 일상 관리 프로그램
-#### [기술스택] Flutter, Spring, Python
-#### [주요성과]
-- 하이브리드 플랫폼 활용
-- 
-#### [핵심기술]
-- AI: 실시간 챗봇
-- Frontend: RESTful API 연동, 반응형 디자인
-- Mobile: 로컬 데이터 저장소 구현
-#### [관련기사] [기호일보](https://www.kihoilbo.co.kr/news/articleView.html?idxno=1092649)
-
-## 📈 활동 현황
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ljy0221&theme=github)
-
-## 📞 연락하기
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:woduddl1000@gmail.com)
+**Email**: woduddl1000@gmail.com
+**GitHub**: [@ljy0221](https://github.com/ljy0221)
+**Baekjoon**: [dwd0221](https://solved.ac/dwd0221/)
 
 ---
-⭐ **"세상을 더 나은 코드로 재해석하는 개발자"** ⭐
+
+## 전문 분야
+
+풀스택 개발자로서 AI 기반 웹 애플리케이션 개발에 집중하고 있습니다.
+사용자 경험 최적화와 성능 개선을 중요시하며, 클린 코드 작성을 추구합니다.
+
+**현재 학습 중**: Spring WebFlux, WebRTC
+**진행 중인 프로젝트**: Spring Framework 및 Electron, MediaPipe 기반 웹 애플리케이션
+
+---
+
+## 기술 스택
+
+| 분류 | 기술 |
+|------|------|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Vue.js, Electron, Flutter, HTML5, CSS3 |
+| **Backend** | Spring Boot, Node.js, Express, FastAPI, Flask |
+| **Database** | PostgreSQL, MySQL, MongoDB, Redis, ChromaDB (Vector DB) |
+| **AI/ML** | RAG, HuggingFace, sentence-transformers, Embedding, Claude API, Gemini API, OpenAI API |
+| **Infrastructure** | Docker, Nginx, AWS EC2, GitLab CI/CD, Prometheus, Grafana |
+| **Real-time** | WebRTC (Kurento), WebSocket, Yjs CRDT |
+| **Security** | Spring Security, JWT, OAuth 2.0 |
+
+---
+
+## 주요 프로젝트
+
+### 1. SYNAPSE - 개발자를 위한 학습 노트 플랫폼
+
+| 항목 | 내용 |
+|------|------|
+| **기간** | 2025 (SSAFY 14기 자율 프로젝트) |
+| **역할** | 팀장, 풀스택 개발 (6인 팀) |
+| **기술 스택** | Spring Boot 3.5, React 18, Electron 30, Docker, PostgreSQL, MongoDB, Redis, WebRTC |
+| **저장소** | [SynapseNote](https://github.com/ljy0221/SynapseNote) |
+| **기여도** | 224 커밋 / 983 커밋 (22.8%) |
+
+#### 프로젝트 개요
+개발자들이 학습 노트를 작성하면서 코드를 즉시 실행하고, AI 리뷰를 받으며, 실시간으로 협업할 수 있는 통합 데스크톱 플랫폼. 기존 노트 앱의 코드 실행 부재와 IDE의 학습 노트 작성 한계를 극복한 개발자 특화 학습 환경.
+
+#### 핵심 기능
+
+**1. Docker 샌드박스 코드 실행 엔진**
+- Python 3.11, JavaScript (Node 20), Java 17 지원
+- 7중 보안 정책: CPU/메모리 제한, 네트워크 격리, Read-only 파일시스템, PID 제한
+- 리소스 제한: CPU 1.0코어, 메모리 512MB, PID 50개
+
+**2. 세션 기반 REPL 시스템**
+- 같은 노트 내 코드 블록 간 변수/함수 공유
+- 컨테이너 재사용으로 실행 속도 20~30배 향상 (2~3초 → 0.1초)
+- endMarker 패턴 기반 실행 완료 감지 (50ms 폴링)
+- 30분 유휴 시 세션 자동 정리
+
+**3. AI 멀티 프로바이더 코드 리뷰**
+- Claude Sonnet 4.5, Gemini 2.0 Flash, GPT-4o 지원
+- 코드 리뷰, 코드 요약, 선택 영역 질문 기능
+- Factory/Strategy 패턴으로 확장성 확보
+
+**4. 실시간 협업 시스템**
+- Yjs CRDT 기반 동시 편집 및 충돌 자동 해결
+- 50ms 이내 실시간 동기화
+- 오프라인 편집 지원 (재접속 시 자동 병합)
+- 사용자 커서 및 상태 실시간 공유
+
+**5. WebRTC 음성 채팅**
+- Kurento 7.1.0 기반 팀 음성 커뮤니케이션
+- 노트 협업 중 실시간 음성 대화 지원
+
+**6. 노트 초대 및 권한 관리**
+- OWNER, EDITOR, VIEWER 3단계 권한 시스템
+- JWT 티켓 기반 WebSocket 인증 (TTL 60초)
+- 시간 기반 초대 링크 만료
+
+#### 개발 업무 및 성과
+
+**팀장 및 프로젝트 관리**
+- 6인 팀 리드 및 업무 분배
+- 시스템 아키텍처 설계 및 기술 스택 선정
+- 하이브리드 DB 아키텍처 설계 (PostgreSQL + MongoDB + Redis)
+
+**Backend 개발**
+- Spring Boot 기반 RESTful API 설계 및 구현
+- OAuth 2.0 소셜 로그인 (Google, GitHub)
+- JWT 기반 인증 시스템 (Access 1시간, Refresh 14일)
+- Docker 샌드박스 코드 실행 엔진 구현
+- 세션 기반 REPL 시스템 구현
+- AI 프로바이더 통합 (Factory Pattern)
+
+**Frontend 개발**
+- React 18 + TypeScript 기반 UI 개발
+- Electron IPC 기반 Main-Renderer 프로세스 분리
+- Zustand 상태 관리
+- Yjs 실시간 협업 통합
+- Recharts 기반 학습 통계 시각화
+
+**Infrastructure**
+- Docker Compose 기반 개발 환경 구축
+- GitLab CI/CD 파이프라인 구성
+- Nginx 리버스 프록시 설정
+
+#### 기술적 구현 상세
+
+| 분류 | 기술 및 도구 |
+|------|-------------|
+| **Backend** | Spring Boot 3.5.9, Java 17, Gradle 8.8 |
+| **Database** | PostgreSQL 16 (메타데이터), MongoDB 8.0 (노트 블록), Redis 7.4 (토큰/캐시) |
+| **Security** | Spring Security, JWT, OAuth 2.0, CORS |
+| **Frontend** | React 18, TypeScript 5.4, Electron 30 |
+| **Real-time** | Yjs 13.6, WebSocket, Zustand 5.0 |
+| **WebRTC** | Kurento 7.1.0 |
+| **Containerization** | Docker 27.4, Docker Compose |
+| **Web Server** | Nginx 1.25 |
+| **CI/CD** | GitLab CI/CD |
+| **Monitoring** | Prometheus, Grafana |
+
+#### 프로젝트 성과
+- 총 커밋 수: 983회
+- 개인 기여: 224회 (woduddl1000 143 + 이재영 81)
+- 세션 코드 실행 속도 20~30배 향상
+- SSAFY 14기 자율 프로젝트 완료
+
+---
+
+### 2. 갈래?말래? - AI 기반 즉흥 여행 추천 플랫폼
+
+| 항목 | 내용 |
+|------|------|
+| **기간** | 2025.11 ~ 2025.12 (5-6주) |
+| **역할** | AI/Backend 개발 (2인 팀) |
+| **기술 스택** | Vue.js, Spring Boot, FastAPI, ChromaDB, MySQL, AWS EC2 |
+| **저장소** | [SpontaneousTrip](https://github.com/ljy0221/SpontaneousTrip) |
+
+#### 프로젝트 개요
+사용자의 위치와 선호도를 기반으로 즉흥 여행지를 추천하는 AI 챗봇 플랫폼. RAG 기술을 활용하여 15,000개 관광지 데이터에서 실시간으로 최적의 여행지를 제안.
+
+#### 주요 성과
+- AI RAG 챗봇 구현 (ChromaDB + sentence-transformers 기반)
+- 15,000개 관광지 데이터 임베딩 및 벡터 검색 시스템 구축
+- 위치 기반 실시간 추천 시스템 개발 (Geolocation + 날씨 API 통합)
+- GIS 공간 인덱스 + MBR을 활용한 위치 검색 성능 최적화
+- AI 스트리밍 응답 구현으로 사용자 경험 개선
+- 게시판 및 마이페이지 풀스택 개발
+- MVP 100% 달성 후 추가 기능 구현
+
+#### 기술적 구현
+
+**AI/ML 시스템**
+- RAG (Retrieval-Augmented Generation) 파이프라인 구현
+- ChromaDB Vector Database 구축 및 관리
+- sentence-transformers 기반 임베딩 최적화
+- 스트리밍 응답 구현 (SSE)
+
+**Backend 개발**
+- Spring Boot 기반 RESTful API 설계
+- JPA 기반 데이터베이스 모델링
+- JWT 인증 시스템 구현
+- FastAPI 기반 AI 서버 구축
+
+**Database 최적화**
+- MySQL GIS 확장 활용
+- 공간 인덱스 (Spatial Index) 구축
+- MBR (Minimum Bounding Rectangle) 기반 쿼리 최적화
+
+**Frontend 개발**
+- Vue.js 3 기반 SPA 구현
+- Vuex 상태 관리
+- SCSS 기반 반응형 디자인
+- 날씨 API 및 Geolocation API 통합
+
+**DevOps**
+- AWS EC2 배포
+- Docker 컨테이너화
+- GitLab CI/CD 파이프라인 구성
+
+#### 기술 스택 상세
+
+| 분류 | 기술 |
+|------|------|
+| **Frontend** | Vue.js 3, Vuex, SCSS |
+| **Backend** | Spring Boot, FastAPI |
+| **Database** | MySQL (GIS), ChromaDB (Vector DB) |
+| **AI/ML** | RAG, sentence-transformers, Embedding |
+| **API** | Geolocation API, 날씨 API, 한국관광공사 API |
+| **Deployment** | AWS EC2, Docker, GitLab CI/CD |
+
+---
+
+### 3. 마음씨 (마음°C) - 우울증 환자용 감정 관리 시스템
+
+| 항목 | 내용 |
+|------|------|
+| **기간** | 2024 (4학년 캡스톤 프로젝트) |
+| **역할** | Frontend 개발 (3인 팀) |
+| **기술 스택** | Flutter, Spring Boot, Flask, Python |
+| **저장소** | [RestProject-Heart](https://github.com/ljy0221/RestProject-Heart) |
+| **기여도** | 5 커밋 / 24 커밋 (20.8%) |
+| **언론 보도** | [기호일보](https://www.kihoilbo.co.kr/news/articleView.html?idxno=1092649) |
+
+#### 프로젝트 개요
+우울증 환자의 감정 관리를 위한 대화형 챗봇 및 일상 관리 애플리케이션. 자연어 입력 기반 상담과 감정 분석을 통한 행동 추천 시스템을 제공하여 일상에서의 지속적인 질환 관리를 지원.
+
+#### 핵심 기능
+
+**1. 상담형 AI 챗봇**
+- 자연어 처리 기반 실시간 상담 기능
+- 사용자 입력에 대한 맥락 이해 및 적절한 응답 생성
+
+**2. 감정 기반 일기 시스템**
+- 일기 작성 전후 감정 기록 및 비교 분석
+- 달력 기반 일기 관리 (작성, 수정, 삭제)
+- 감정 분석 결과 기반 배경 음악 자동 생성 및 재생
+
+**3. 행동 추천 시스템**
+- 사용자 감정 상태 기반 맞춤형 행동 추천
+- 행동 전후 감정 변화 추적
+- 부정→긍정 감정 전환 시 통계 데이터 누적
+
+**4. 감정 통계 및 분석**
+- 월간 감정 통계 시각화
+- 전체 기간 감정 Top 3 분석
+- 시간대별 감정 패턴 분석 (24시간 4분할)
+- 효과적인 행동 패턴 리스트 제공
+
+**5. 우울증 건강 설문**
+- 우울 척도 진단 설문 시스템
+- 이전 기록과 현재 기록 비교를 통한 상태 트래킹
+
+**6. 게이미피케이션**
+- 경험치 시스템 기반 캐릭터 성장
+
+#### 개발 업무 및 성과
+
+**Flutter 기반 모바일 앱 개발**
+- Widget 기반 UI 컴포넌트 설계 및 구현 (31개 Dart 파일)
+- MediaQuery를 활용한 반응형 디자인 적용
+- 메인 화면, 로그인, 통계, 일기, 채팅 화면 개발
+
+**백엔드 연동 및 데이터 처리**
+- HTTP 패키지를 통한 RESTful API 연동
+- SharedPreferences를 통한 로컬 데이터 저장소 구현
+- Flutter Secure Storage를 활용한 보안 데이터 관리
+
+**사용자 경험 최적화**
+- Table Calendar를 통한 직관적인 일기 관리
+- FL Chart를 활용한 감정 통계 시각화
+- Just Audio를 통한 감정 기반 배경음악 재생
+- Provider 패턴을 통한 상태 관리
+
+#### 기술 스택 상세
+
+| 분류 | 기술 및 패키지 |
+|------|---------------|
+| **Frontend** | Flutter SDK 3.4.0+, Dart |
+| **UI Components** | Cupertino Icons, Salomon Bottom Bar, Table Calendar 3.1 |
+| **Data & State** | Provider 6.1, SharedPreferences 2.2, Flutter Secure Storage 9.2 |
+| **Networking** | HTTP 1.2 (RESTful API) |
+| **Visualization** | FL Chart 0.68 |
+| **Media** | Just Audio 0.9 |
+| **Utilities** | Intl 0.19, URL Launcher 6.0, Flutter SpinKit 5.2 |
+| **Backend** | Spring Boot (Java), Flask (Python) |
+
+#### 프로젝트 성과
+- 총 커밋 수: 24회
+- 팀 협업: 3인 팀 (Chaeruin, ljy0221, 박달루)
+- 언어 구성: Dart 65.9%, Java 27.0%, Python 6.6%
+- 캡스톤 프로젝트 완료 및 지역 언론 보도
+
+---
+
+### 4. Nonogram 모바일 게임
+
+| 항목 | 내용 |
+|------|------|
+| **기간** | 2020 |
+| **역할** | 개인 프로젝트 |
+| **기술 스택** | Java, Android |
+| **저장소** | [mobileProgramming_Nonogram](https://github.com/ljy0221/mobileProgramming_Nonogram) |
+
+#### 프로젝트 개요
+논리 퍼즐 게임 Nonogram의 Android 네이티브 구현
+
+---
+
+## 연락처
+
+- **Email**: woduddl1000@gmail.com
+- **GitHub**: https://github.com/ljy0221
+- **Baekjoon**: https://solved.ac/dwd0221/
+
+---
+
+*최종 수정일: 2026년 2월*
