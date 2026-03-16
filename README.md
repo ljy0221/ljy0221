@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jay (Jaeyoung Lee) 👋</h1>
+<h1 align="center">Hi, I'm Jay (Jaeyeong Lee) 👋</h1>
 <p align="center">
   <b>Backend & Fullstack Developer</b><br/>
   문제를 수치로 증명하는 개발자
